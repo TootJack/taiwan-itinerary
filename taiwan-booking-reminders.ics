@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Taiwan Itinerary//Booking Reminders//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🇹🇼 台湾行程预订提醒
+X-WR-TIMEZONE:Asia/Taipei
+
+BEGIN:VEVENT
+UID:tw-trip-001@taiwan-itinerary
+DTSTART;VALUE=DATE:20260720
+SUMMARY:🎫 预订：秀姑巒溪泛舟 (9/30)
+DESCRIPTION:在 Klook/KKday 预订泛舟套餐（含装备+接送+保险）。\n费用约 NT$800-1,200/人。\n泛舟日期：9月30日。\n预订链接：klook.com 搜索 "Xiuguluan River Rafting"
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:明天记得预订秀姑巒溪泛舟！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-002@taiwan-itinerary
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260923
+SUMMARY:🎫 预订窗口：客运6739 日月潭→阿里山 (9/24)
+DESCRIPTION:⚠️ 必须提前2-60天预约！每日仅1-2班，无预约无法上车！\n乘车日期：9月24日\n预约方式：线上预约或电话预约\n这是从日月潭到阿里山的唯一直达巴士，务必在此窗口内完成预订。
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:提醒：如果还没预约日月潭→阿里山的6739巴士，尽快预约！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-003@taiwan-itinerary
+DTSTART;VALUE=DATE:20260824
+SUMMARY:🎫 抢票：高铁早鸟票 台北→台中 (9/22)
+DESCRIPTION:今天起可在台湾高铁官网/App购买9/22台北→台中的早鸟票。\n最高65折(35% off)！\n越早买折扣越大，65折卖完就变8折→9折→原价。\n购买方式：irs.thsrc.com.tw 或 T Express App\n需要：护照号码
+BEGIN:VALARM
+TRIGGER:PT0S
+ACTION:DISPLAY
+DESCRIPTION:今天可以抢高铁早鸟票了！台北→台中 9/22
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-004@taiwan-itinerary
+DTSTART;VALUE=DATE:20260829
+SUMMARY:🎫 抢票：高铁早鸟票 台南→左营 (9/27)
+DESCRIPTION:今天起可在台湾高铁官网/App购买9/27台南→左营的早鸟票。\n最高65折(35% off)！\n越早买折扣越大。\n购买方式：irs.thsrc.com.tw 或 T Express App\n需要：护照号码
+BEGIN:VALARM
+TRIGGER:PT0S
+ACTION:DISPLAY
+DESCRIPTION:今天可以抢高铁早鸟票了！台南→左营 9/27
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-005@taiwan-itinerary
+DTSTART;VALUE=DATE:20260915
+SUMMARY:🎫 抢票：台铁 枋寮→台东→瑞穗 (9/29) 南回线
+DESCRIPTION:今天起可在台铁官网/App购买9/29的火车票。\n路线：枋寮→台东(南回线)→瑞穗(北上线)\n⚠️ 南回线多采用EMU3000列车，不发售站票！\n这是全台最美海岸铁路，务必提前订座。\n购买方式：台铁e订通 App 或 railway.gov.tw\n需要：护照号码
+BEGIN:VALARM
+TRIGGER:PT0S
+ACTION:DISPLAY
+DESCRIPTION:今天可以抢台铁票了！枋寮→台东→瑞穗 9/29 南回线
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-006@taiwan-itinerary
+DTSTART;VALUE=DATE:20260916
+SUMMARY:🎫 抢票：台铁 瑞穗→台东→高雄 (9/30)
+DESCRIPTION:今天起可在台铁官网/App购买9/30的火车票。\n路线：瑞穗→台东(南下)→高雄(南回线)\n购买方式：台铁e订通 App 或 railway.gov.tw\n需要：护照号码
+BEGIN:VALARM
+TRIGGER:PT0S
+ACTION:DISPLAY
+DESCRIPTION:今天可以抢台铁票了！瑞穗→台东→高雄 9/30
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-007@taiwan-itinerary
+DTSTART;VALUE=DATE:20260917
+SUMMARY:🎫 抢票：台铁 台东→高雄 (9/30) 备选
+DESCRIPTION:如果9/16未抢到瑞穗出发的票，也可分段购买：\n9/30 瑞穗→台东 + 台东→高雄(南回线)\n台东→高雄段也需提前14天订票。
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:提醒：检查台铁票是否已订好，如未订到可分段购买
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-008@taiwan-itinerary
+DTSTART;VALUE=DATE:20260918
+SUMMARY:✈️ 出发！阿姆斯特丹→台北 11:00
+DESCRIPTION:航班：阿姆斯特丹 → 台北\n出发时间：11:00\n抵达时间：次日(9/19) 06:15 桃园机场(TPE)\n\n出发前检查清单：\n✅ 护照（有效期6个月以上）\n✅ 入台证（已批准）\n✅ 机票\n✅ 台币现金/借记卡\n✅ 旅行保险（含航班延误保障）\n✅ 悠游卡（抵达后购买）
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:3小时后出发！阿姆斯特丹→台北
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-009@taiwan-itinerary
+DTSTART;VALUE=DATE:20260923
+SUMMARY:🎫 购票：阿里山日出小火车票 (9/24清晨)
+DESCRIPTION:⚠️ 今天下午必须去买！\n时间：下午1:00 - 4:00（1点开售，抢手！）\n地点：阿里山车站\n建议：12:30前到车站排队！\n这是明天清晨看日出的祝山线小火车车票。
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1小时后去阿里山车站排队买日出小火车票！
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT12H
+ACTION:DISPLAY
+DESCRIPTION:今天下午1点去阿里山车站买日出小火车票！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-010@taiwan-itinerary
+DTSTART;VALUE=DATE:20260919
+SUMMARY:✈️ 抵达台北 06:15
+DESCRIPTION:抵达桃园机场(TPE) 06:15\n\n今日安排：\n1. 机场捷运入市区\n2. 酒店寄存行李\n3. 补觉调整时差\n4. 下午3-4点前往象山拍101打卡照\n5. 晚上宁夏夜市
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-011@taiwan-itinerary
+DTSTART;VALUE=DATE:20261004
+SUMMARY:✈️ 离境：高雄→南京 11:40
+DESCRIPTION:航班：高雄(KHH) → 南京\n出发：11:40 → 抵达：14:00\n\n提醒：\n- 高雄小港机场通关快，提前2-2.5小时抵达\n- 09:00-09:30从酒店出发\n- 这是入台证第15天(最后合法停留日)，务必当天离境！
+BEGIN:VALARM
+TRIGGER:-PT4H
+ACTION:DISPLAY
+DESCRIPTION:4小时后航班！高雄→南京 11:40。这是最后合法停留日！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-trip-012@taiwan-itinerary
+DTSTART;VALUE=DATE:20261005
+SUMMARY:✈️ 南京→太原 07:40
+DESCRIPTION:航班：南京 → 太原\n出发：07:40 → 抵达：09:40\n\n提醒：建议5:40前到机场。\n行程圆满结束！🏠
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:2小时后航班！南京→太原 07:40
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
