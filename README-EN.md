@@ -20,60 +20,54 @@
 
 ## 🗓️ Daily Itinerary
 
-| Date | City | Itinerary & Activities | Transport | Accommodation | 📝 Tips & Fact-Check |
-|---|---|---|---|---|---|
-| **9/18 (Fri)** | Zwijndrecht ➔ Flight | **Departure Day:** 05:30 train from Zwijndrecht→Schiphol Airport, 11:00 flight departs, overnight red-eye arriving early next morning. | 🚂 Train + ✈️ Flight | On plane | Double-check passport, tickets, TWD cash/debit card before leaving. Train route: Zwijndrecht→Rotterdam Centraal→Schiphol. |
-| **9/19 (Sat)** | Taipei | **Arrival + Elephant Mountain + Night Market:** Land at Taoyuan Airport 6:15 AM, take Airport MRT to city, drop bags at hotel. Rest to adjust to jet lag, then head to **Elephant Mountain (Xiangshan)** in the afternoon for the iconic Taipei 101 photo (see details below). Evening: Ningxia Night Market. | Airport MRT + MRT | Near Taipei Main Sta. / Zhongshan | **EasyCard:** Buy at airport convenience store, top up. **Elephant Mountain transport:** Take MRT Red Line (Tamsui-Xinyi Line) to "Xiangshan Station," Exit 2, walk ~650m (~20 min) to trailhead. Hike 15-20 min, all stairs. **Turn LEFT at the fork!** |
-| **9/20 (Sun)** | Taipei | **History · Culture · Million-Dollar Night View:** Morning at National Palace Museum (~3h) → afternoon at Dadaocheng/Dihua Street (vintage cafés in old houses) → evening up Yangmingshan to "Lover's Hill" behind Chinese Culture University for sunset & stunning night view → dinner at a landscape restaurant. | MRT + Bus/Uber | Taipei | **Palace Museum tickets** can be bought online in advance for QR-code entry. **Going up:** After Dadaocheng, take an Uber (set destination to "Lover's Hill behind Chinese Culture University") ~30-40 min, or take MRT to Jiantan Sta. then bus "Red 5" direct to the university — follow the students. **Coming down:** Ask the restaurant front desk to call a taxi, or use Uber. Pass by Shilin Night Market for late-night snacks on the way back. Recommended restaurants: The Top (Bali-style, walk-in only), Sleepless in Yangmingshan (romantic vibe). |
-| **9/21 (Mon)** | Taipei | **Pingxi Line & Jiufen:** Ride the Pingxi Line small train to see Shifen Waterfall & release sky lanterns; head to Jiufen Old Street in the evening for sunset & night views. | TRA & Bus | Taipei | **✅ Good news:** Monday means far fewer crowds at Jiufen than on weekends! Better experience. Take a direct bus back to downtown Taipei after the night view. |
-| **9/22 (Tue)** | Taipei ➔ Taichung | **Heading South to Taichung:** Explore Audit New Village & CMP Park Lane (creative markets); dinner at Fengjia Night Market. | THSR (High-Speed Rail) | Near Taichung Sta. / Fengjia | **HSR:** Early-bird tickets available up to 29 days in advance on the official site — up to 35% off. |
-| **9/23 (Wed)** | Taichung ➔ Sun Moon Lake | **Most Beautiful Bike Path:** Morning ice cream at Miyahara; take bus to Sun Moon Lake, rent a bike and ride the "Shuishe–Xiangshan" section. | Taiwan Trip Bus | Shuishe Pier, Sun Moon Lake | Take the "Taiwan Trip – Sun Moon Lake Line" from Taichung HSR/TRA station — just tap your EasyCard to board. |
-| **9/24 (Thu)** | Sun Moon Lake ➔ Alishan | **Yushan Highway & Sacred Trees:** Morning bus through Yushan National Park direct to Alishan; afternoon stroll through the giant cypress tree trails. | Taiwan Trip Bus 6739 | Inside Alishan Park | ⚠️ **2026 Fact-Check:** The Sun Moon Lake→Alishan bus 6739 MUST be reserved 2–60 days in advance online or by phone. Only 1–2 departures/day — no reservation, no boarding! |
-| **9/25 (Fri)** | Alishan ➔ Tainan | **Sunrise & Ancient Capital:** Early morning Zhushan Line train for sunrise; midday descend to Chiayi for turkey rice lunch; afternoon transfer to Tainan. | Small train + Bus + HSR/TRA | West Central Dist., Tainan | **Tickets:** Buy the sunrise forest train ticket on 9/23 (day before) at Alishan Station, 1 PM–4 PM. **Sales open at 1 PM and sell out fast — arrive before 1 PM to queue!** |
-| **9/26 (Sat)** | Tainan | **Food Capital:** Anping Fort & Anping Tree House; afternoon snacks at Guohua Street (beef soup, rice cake); evening at Dadong/Garden Night Market. | Bus / Taxi / Uber | West Central Dist., Tainan | Tainan buses are infrequent & slow. Prices are cheap — for 2+ people, just take a taxi or Uber around the city. |
-| **9/27 (Sun)** | Tainan ➔ Kenting | **Tropical Vibes:** HSR to Zuoying Station, transfer to "Kenting Express" bus; afternoon at Baisha Bay or Nanwan for the sea. | HSR + Kenting Express | Kenting Street / South Bay | Buy a "round-trip ticket" for the Kenting Express at the Zuoying HSR station counter — cheaper than one-way. ~2 hours ride. |
-| **9/28 (Mon)** | Kenting | **National Park Coastline:** Ride around Eluanbi Lighthouse, Longpan Park (cliff coastline); affordable seafood at Houpihu. | Rent E-scooter | Kenting | **License:** Renting a motor scooter requires a local/international motorcycle license. Tourists should rent an **"E-bike (电动自行车, no license required)"** — max speed 25 km/h, plenty for sightseeing. |
-| **9/29 (Tue)** | Kenting ➔ Ruisui | **East Coast Travel + Pre-Rafting Rest:** Bus to Fangliao Station, TRA "South-Link Line" to Taitung, then transfer northbound to Ruisui. Enjoy Taiwan's most beautiful coastal railway along the way. Arrive Ruisui evening, soak in **Ruisui Hot Springs** to rest up for tomorrow's rafting. | Bus + TRA South-Link + TRA Northbound | Ruisui Hot Springs area | **TRA Fact-Check:** South-Link Line is Taiwan's most beautiful coastal railway. Now mostly uses new EMU3000 trains (no standing tickets) — book 14 days in advance. Taitung→Ruisui is ~1 hour. Ruisui Hot Springs are famous sodium bicarbonate springs ("beauty springs"), perfect for relaxing the night before rafting. |
-| **9/30 (Wed)** | Ruisui ➔ Kaohsiung | **Xiuguluan River Rafting + Back to Harbor City:** Morning **Xiuguluan River rafting** (24km, ~3-4 hours, see highlight below). Afternoon TRA from Ruisui→Taitung→Kaohsiung (South-Link Line, ~4-5 hours). Evening at **Liuhe Night Market**. | Rafting shuttle + TRA | Near Formosa Blvd / Arena MRT | ⚠️ **Night Market Adjustment:** Originally planned Ruifeng, but it's **closed on Wednesday!** Switch to Liuhe Night Market (tourist-friendly, open daily, right at Formosa Blvd MRT station). Ruifeng moved to Thursday 10/1. **Rafting:** Book a rafting package online (Klook/KKday) in advance — includes gear + shuttle + insurance. Afternoon train is long — rest on the way. |
-| **10/1 (Thu)** | Kaohsiung | **Harbor & Art + Ruifeng Night Market:** Morning at Pier-2 Art Center & Great Harbor Bridge; afternoon at Kaohsiung Music Center & Love River Bay; evening at **Ruifeng Night Market** (open Thursday!). | Kaohsiung LRT / MRT | Kaohsiung | The Kaohsiung Light Rail (LRT) is now a full loop — just tap on/off with EasyCard. The most scenic way to enjoy the harbor. **Ruifeng Night Market** is open Thursday — locals' favorite! |
-| **10/2 (Fri)** | Kaohsiung (Cijin) | **Island Vibes:** Ferry from Gushan to Cijin Island; rent a vehicle to see Cijin Lighthouse & Rainbow Church; eat giant shaved ice. | Ferry | Kaohsiung | Ferry takes only 5 minutes — people & e-scooters can board. Just tap your EasyCard. |
-| **10/3 (Sat)** | Kaohsiung | **Architecture · Souvenirs · Relax (combined day):** Morning at Weiwuying National Kaohsiung Center for the Arts; afternoon souvenir shopping (Wang Cai Hong etc.) + optional Former British Consulate or Sizihwan sunset. | MRT / Walk | Kaohsiung | Late-trip mode: semi-relaxed today. Last night — highly recommend an authentic Taiwanese "Re-chao" (stir-fry) restaurant with Taiwan Beer, or a hot pot dinner. |
-| **10/4 (Sun)** | Kaohsiung ➔ Nanjing | **Heading Home + Nanjing Transit:** Eat a traditional Taiwanese breakfast (danbing/rice roll), take MRT Red Line to Kaohsiung Airport (KHH). Flight 11:40 → Arrive Nanjing 14:00. Afternoon/evening: explore **Fuzimiao (Confucius Temple) & Qinhuai River** area, try Nanjing salted duck. | MRT Red Line + Flight | Nanjing (airport or city) | Kaohsiung Airport is mid-sized with fast customs — arrive 2 to 2.5 hours before departure. **Nanjing hotel:** Stay near Fuzimiao if you want to explore; or near Lukou Airport for the early 7:40 AM flight next day. |
-| **10/5 (Mon)** | Nanjing ➔ Taiyuan | **Home:** Depart Nanjing 07:40 → Arrive Taiyuan 09:40. Trip complete! | Flight | Home | Recommend staying near the airport the night before — 7:40 AM flight means arriving at airport by 5:40 AM. |
+| Date | City | Key Activities | Transport | Stay |
+|---|---|---|---|---|
+| **9/18 (Fri)** | Zwijndrecht→Flight | 05:30 train→Schiphol→11:00 flight | 🚂+✈️ | On plane |
+| **9/19 (Sat)** | Taipei | Arrive 06:15→rest→Elephant Mountain 101 photo→Ningxia Night Market | Airport MRT+MRT | Taipei Main/Zhongshan |
+| **9/20 (Sun)** | Taipei | Palace Museum→Dadaocheng→Yangmingshan night view | MRT+Uber | Taipei |
+| **9/21 (Mon)** | Taipei | Pingxi Line lanterns→Shifen Waterfall→Jiufen night view | TRA+Bus | Taipei |
+| **9/22 (Tue)** | Taipei→Taichung | HSR south→Miyahara→Audit Village→Fengjia Night Market | HSR | Taichung/Fengjia |
+| **9/23 (Wed)** | Taichung→Sun Moon Lake | Miyahara→Sun Moon Lake cycling→Xuan-Guang Temple→sunset | Taiwan Trip Bus | Shuishe Pier |
+| **9/24 (Thu)** | Sun Moon Lake→Alishan | Bus 6739 via Yushan→Cypress Trail→buy sunrise ticket | Bus 6739 | Alishan park |
+| **9/25 (Fri)** | Alishan→Tainan | Sunrise→descend→Chiayi turkey rice→Tainan Guohua St | Train+Bus+TRA | Tainan West Central |
+| **9/26 (Sat)** | Tainan | Anping Fort→Tree House→Guohua St→night market | Taxi/Uber | Tainan West Central |
+| **9/27 (Sun)** | Tainan→Kenting | HSR→Kenting Express→Baisha Bay/South Bay | HSR+Bus | Kenting St/South Bay |
+| **9/28 (Mon)** | Kenting | E-bike→Eluanbi Lighthouse→Longpan Park→Houpihu seafood | Rent E-bike | Kenting |
+| **9/29 (Tue)** | Kenting→Ruisui | Bus→South-Link railway→Ruisui Hot Springs | Bus+TRA | Ruisui hot springs |
+| **9/30 (Wed)** | Ruisui→Kaohsiung | Xiuguluan rafting→TRA south→Liuhe Night Market | Rafting+TRA | Kaohsiung Formosa Blvd/Arena |
+| **10/1 (Thu)** | Kaohsiung | Pier-2→Great Harbor Bridge→Love River→Ruifeng Night Market | LRT/MRT | Kaohsiung |
+| **10/2 (Fri)** | Kaohsiung (Cijin) | Ferry→Cijin Lighthouse→Rainbow Church→seafood+shaved ice | Ferry | Kaohsiung |
+| **10/3 (Sat)** | Kaohsiung | Weiwuying→souvenirs→Sizihwan sunset→Re-chao dinner! | MRT | Kaohsiung |
+| **10/4 (Sun)** | Kaohsiung→Nanjing | Breakfast→11:40 flight→Fuzimiao & Qinhuai River | ✈️ | Nanjing |
+| **10/5 (Mon)** | Nanjing→Taiyuan | 07:40 flight→09:40 arrive Taiyuan, home! | ✈️ | Home |
+
+> 📌 Detailed daily schedule, food recs & tips in [Daily Highlights](#-daily-highlights) below
 
 ---
 
-## 🍽️ Daily Food Guide
+## 🍽️ Daily Food Quick Reference
 
-> 📋 Reservation key: ✅ = book ahead ｜ ❌ = walk-in ｜ ⏰ = expect a queue
+> Booking: ✅=book ahead ｜ ⏰=expect queue ｜ ❌=walk-in ｜ See daily highlights for full schedule
 
-| Date | 🌅 Breakfast | ☀️ Lunch | 🌙 Dinner | 🌃 Late Night / Dessert | 📋 Resv |
-|---|---|---|---|---|---|
-| **9/18** | Light meal at Amsterdam Airport | ✈️ Airplane meal | ✈️ Airplane meal | — | ❌ |
-| **9/19** | ✈️ Airplane meal (before landing) | Convenience store / simple meal near hotel after arrival | **Ningxia Night Market**: Hu-Xu-Zhang braised pork rice, Liu-Yu-Zi taro cake, pork liver soup | Eat your way through Ningxia Night Market | ❌ |
-| **9/20** | **Fu Hang Soy Milk** (Shandao Temple Sta.): thick flatbread w/ egg, salty soy milk — Taipei's most famous breakfast | Dadaocheng: Yongle Hand-Torn Noodle / Minle Sailfish Noodle | **Yangmingshan landscape restaurant**: The Top / Sleepless in Yangmingshan (Taiwanese stir-fry + Western) | Shilin Night Market: giant fried chicken, pan-fried buns | ⏰ Landscape restaurants: walk-in queue; Fu Hang: 30-60 min queue |
-| **9/21** | Yonghe Soy Milk (chain, any branch) | **Shifen Old St**: rice stuffed in fried chicken wing, train-shaped biscuits | **Jiufen Old St**: A-Lan's savory rice cake, Lai-A-Po taro balls, fish ball soup | Jiufen's A-Gan-Yi taro balls (with night view!) | ❌ |
-| **9/22** | Hotel breakfast in Taipei | **Miyahara** (Taichung): ice cream + pineapple cake, tea room downstairs | **Fengjia Night Market**: taro soup, Ming-Lun egg pancake, octopus balls, sausage-stuffed sticky rice | Eat through Fengjia Night Market | ❌ |
-| **9/23** | Hotel breakfast in Taichung | Sun Moon Lake: **Grandma's Tea Eggs** (near Xuan-Guang Temple) + Ita Thao food street | Sun Moon Lake hotel restaurant or restaurants near Shuishe Pier | Convenience store snack (rest up for tomorrow) | ❌ |
-| **9/24** | Simple meal inside Alishan park | **Alishan park restaurants** (limited options, simple meals) | Alishan park restaurant / hotel-included meal | Convenience store snack (early night for sunrise tomorrow) | ❌ |
-| **9/25** | 🌅 After sunrise at Alishan: simple meal in park | **Chiayi Turkey Rice** (must-eat on the way down!): chicken rice / Lin-Cong-Ming sand-pot fish head | **Tainan Guohua St**: Yongle beef soup, Fu-Sheng-Hwa rice cake, A-Song guabao | Tainan Dadong/Garden Night Market: five-spice rolls, oyster omelet | ❌ |
-| **9/26** | Tainan **A-Tang Savory Porridge** (famous, opens 6AM, expect queue) or **Liu-Qian Beef Soup** (opens 5AM!) | Tainan **Anping area**: Zhou's shrimp rolls, Chen's oyster rolls, Tong-Ji Anping tofu pudding | Tainan **A-Hsia Restaurant** (classic Taiwanese cuisine, Michelin rec) or **A-Ming Pig Heart Vermicelli** | Dadong/Garden Night Market round 2 | ✅ A-Hsia needs inline APP booking; A-Tang queues 1hr+ |
-| **9/27** | Tainan **Yongle Beef Soup** (open 24h, go early, no queue!) | Simple meal at Zuoying HSR station | **Kenting Street**: Mexican burritos, QQ egg tarts, grilled skewers | Eat along Kenting Street | ❌ |
-| **9/28** | Hotel breakfast in Kenting | **Houpihu Seafood**: A-Xing Sashimi (great value from NT$100!) | Kenting Street or South Bay seafood restaurant | Ku-Zi Izakaya (Kenting) for drinks | ⏰ A-Xing gets crowded on weekends |
-| **9/29** | Hotel breakfast in Kenting | Bento box during train transfer at Fangliao/Taitung station | **Ruisui**: hotel restaurant or local snacks (Ruisui Ranch's fresh milk steamed buns!) | Light snack after hot springs soak | ❌ (hotel restaurant can be arranged at check-in) |
-| **9/30** | Hotel breakfast in Ruisui | Simple meal in Ruisui after rafting (some packages include lunch) | **Liuhe Night Market**: papaya milk, salt-steamed shrimp, boneless chicken feet, mullet roe | Eat through Liuhe Night Market | ❌ |
-| **10/1** | Hotel breakfast (try danbing + milk tea) | Near Pier-2: **Du-Shao-Tou Hai-Zhi-Bing** (giant shaved ice!) | **Ruifeng Night Market**: potato black tea, golden sweet potato balls, BBQ, hot pot | Keep eating at Ruifeng | ❌ |
-| **10/2** | Hotel breakfast in Kaohsiung | **Cijin Island seafood**: Bu-Yi-Yang pork thick soup, Cijin seafood restaurants (fresh catch!) | Cijin seafood round 2, or back in city: **Ya-Rou-Zhen** (duck rice / sliced duck) | Du-Shao-Tou Hai-Zhi-Bing (giant shaved ice!) | ❌ |
-| **10/3** | Kaohsiung **Xing-Long-Ju** (toast + milk tea, old-school legendary breakfast) | City: **Zi-Zhu New Village noodle** or **Lao-Pai-Zhou BBQ rice** | 🎉 **Taiwanese Re-chao (stir-fry)** + Taiwan Beer! Hai-Bao seafood / Sha-Ka-Dang, or hot pot (Lao-Si-Chuan) | Drinks at the Re-chao place | ✅ Re-chao: book ahead for weekend |
-| **10/4** | **Traditional Taiwanese breakfast**: danbing / rice roll + soy milk (street cart = most authentic!) | ✈️ Airport meal at Kaohsiung / meal after arriving Nanjing | **Nanjing Fuzimiao**: Nanjing salted duck, duck blood vermicelli soup, soup dumplings | Snack along Qinhuai River walk | ❌ |
-| **10/5** | Hotel/airport light meal in Nanjing | ✈️ Airplane meal / Home cooking! | — | — | ❌ |
-
-### 📌 Food Reservation Reminders
-| Restaurant | City | How to Book | Notes |
-|---|---|---|---|
-| **A-Hsia Restaurant** | Tainan | inline APP, 1-2 weeks ahead | Michelin-recommended Taiwanese cuisine, very popular |
-| **Re-chao (stir-fry) restaurant** | Kaohsiung | Phone / walk-in 1 day ahead | Weekend hot spots need booking |
-| **Fu Hang Soy Milk** | Taipei | ❌ No booking | But expect 30-60 min queue, arrive before 7:30 AM |
+| Date | 🌅Breakfast | ☀️Lunch | 🌙Dinner | 📋 |
+|---|---|---|---|---|
+| **9/19** | ✈️Airplane meal | Convenience store | Ningxia Night Market (braised pork rice) | ❌ |
+| **9/20** | Fu Hang Soy Milk (before 7:30!) | Dadaocheng café | Yangmingshan restaurant (The Top) | ⏰ |
+| **9/21** | Yonghe Soy Milk | Shifen Old St (chicken wing rice) | Jiufen (A-Gan-Yi taro balls) | ❌ |
+| **9/22** | Hotel breakfast | Miyahara (ice cream) | Fengjia Night Market (sausage rice) | ❌ |
+| **9/23** | Hotel breakfast | Sun Moon Lake tea eggs | Lake hotel restaurant | ❌ |
+| **9/24** | Park simple meal | Alishan park restaurant | Alishan park restaurant | ❌ |
+| **9/25** | After sunrise meal | Chiayi Turkey Rice! | Tainan Guohua St (beef soup) | ❌ |
+| **9/26** | A-Tang porridge (6AM) / Liu-Qian beef soup (5AM!) | Anping (shrimp rolls) | A-Hsia Restaurant (Michelin rec) | ✅⏰ |
+| **9/27** | Yongle Beef Soup (24h) | HSR station bento | Kenting Street (burritos) | ❌ |
+| **9/28** | Hotel breakfast | Houpihu seafood (A-Xing sashimi) | Kenting seafood | ⏰ |
+| **9/29** | Hotel breakfast | Transfer bento | Ruisui hot spring hotel | ❌ |
+| **9/30** | Hotel breakfast | Post-rafting meal | Liuhe Night Market (papaya milk) | ❌ |
+| **10/1** | Hotel breakfast | Giant shaved ice | Ruifeng Night Market (BBQ) | ❌ |
+| **10/2** | Hotel breakfast | Cijin seafood (fresh catch) | Ya-Rou-Zhen (duck rice) | ❌ |
+| **10/3** | Xing-Long-Ju (toast+milk tea) | Noodles / BBQ rice | Re-chao + Taiwan Beer! | ✅ |
+| **10/4** | Street cart danbing/rice roll | ✈️Airport meal | Nanjing Fuzimiao (salted duck) | ❌ |
+| **10/5** | Hotel light meal | ✈️Airplane meal / Home! | — | ❌ |
 
 ---
 
