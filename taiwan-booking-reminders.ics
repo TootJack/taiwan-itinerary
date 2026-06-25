@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Taiwan Itinerary//Booking Reminders//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:🇹🇼 台湾行程预订提醒
+X-WR-CALNAME:Taiwan Trip Booking Reminders
 X-WR-TIMEZONE:Asia/Taipei
 
 BEGIN:VEVENT
 UID:tw-trip-001@taiwan-itinerary
 DTSTART;VALUE=DATE:20260720
-SUMMARY:🎫 预订：秀姑巒溪泛舟 (9/30)
-DESCRIPTION:在 Klook/KKday 预订泛舟套餐（含装备+接送+保险）。\n费用约 NT$800-1,200/人。\n泛舟日期：9月30日。\n预订链接：klook.com 搜索 "Xiuguluan River Rafting"
+SUMMARY:[Book] Xiuguluan River Rafting (Sep 30)
+DESCRIPTION:Book rafting package on Klook/KKday (gear+shuttle+insurance).\nCost: approx NT$800-1200/person.\nRafting date: Sep 30.\nSearch: klook.com "Xiuguluan River Rafting"
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:明天记得预订秀姑巒溪泛舟！
+DESCRIPTION:Book Xiuguluan River Rafting tomorrow!
 END:VALARM
 END:VEVENT
 
@@ -21,233 +21,233 @@ BEGIN:VEVENT
 UID:tw-trip-002@taiwan-itinerary
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260923
-SUMMARY:🎫 预订窗口：客运6739 日月潭→阿里山 (9/24)
-DESCRIPTION:⚠️ 必须提前2-60天预约！每日仅1-2班，无预约无法上车！\n乘车日期：9月24日\n预约方式：线上预约或电话预约\n这是从日月潭到阿里山的唯一直达巴士，务必在此窗口内完成预订。
+SUMMARY:[Book Window] Bus 6739 Sun Moon Lake to Alishan (Sep 24)
+DESCRIPTION:Must reserve 2-60 days ahead! Only 1-2 buses/day.\nTravel date: Sep 24.\nReserve online or by phone.\nThis is the only direct bus from Sun Moon Lake to Alishan.
 BEGIN:VALARM
 TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:提醒：如果还没预约日月潭→阿里山的6739巴士，尽快预约！
+DESCRIPTION:Reserve Bus 6739 Sun Moon Lake to Alishan if not done yet!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-003@taiwan-itinerary
 DTSTART;VALUE=DATE:20260824
-SUMMARY:🎫 抢票：高铁早鸟票 台北→台中 (9/22)
-DESCRIPTION:今天起可在台湾高铁官网/App购买9/22台北→台中的早鸟票。\n最高65折(35% off)！\n越早买折扣越大，65折卖完就变8折→9折→原价。\n购买方式：irs.thsrc.com.tw 或 T Express App\n需要：护照号码
+SUMMARY:[Book] HSR Early Bird Taipei to Taichung (Sep 22)
+DESCRIPTION:HSR early-bird tickets available today for Sep 22.\nUp to 35% off! Book early for best discount.\nWebsite: irs.thsrc.com.tw or T Express App.\nNeed: passport number.
 BEGIN:VALARM
 TRIGGER:PT0S
 ACTION:DISPLAY
-DESCRIPTION:今天可以抢高铁早鸟票了！台北→台中 9/22
+DESCRIPTION:HSR early-bird tickets available today! Taipei to Taichung Sep 22
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-004@taiwan-itinerary
 DTSTART;VALUE=DATE:20260829
-SUMMARY:🎫 抢票：高铁早鸟票 台南→左营 (9/27)
-DESCRIPTION:今天起可在台湾高铁官网/App购买9/27台南→左营的早鸟票。\n最高65折(35% off)！\n越早买折扣越大。\n购买方式：irs.thsrc.com.tw 或 T Express App\n需要：护照号码
+SUMMARY:[Book] HSR Early Bird Tainan to Zuoying (Sep 27)
+DESCRIPTION:HSR early-bird tickets available today for Sep 27.\nUp to 35% off! Book early.\nWebsite: irs.thsrc.com.tw or T Express App.\nNeed: passport number.
 BEGIN:VALARM
 TRIGGER:PT0S
 ACTION:DISPLAY
-DESCRIPTION:今天可以抢高铁早鸟票了！台南→左营 9/27
+DESCRIPTION:HSR early-bird tickets available today! Tainan to Zuoying Sep 27
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-005@taiwan-itinerary
 DTSTART;VALUE=DATE:20260915
-SUMMARY:🎫 抢票：台铁 枋寮→台东→瑞穗 (9/29) 南回线
-DESCRIPTION:今天起可在台铁官网/App购买9/29的火车票。\n路线：枋寮→台东(南回线)→瑞穗(北上线)\n⚠️ 南回线多采用EMU3000列车，不发售站票！\n这是全台最美海岸铁路，务必提前订座。\n购买方式：台铁e订通 App 或 railway.gov.tw\n需要：护照号码
+SUMMARY:[Book] TRA Fangliao to Taitung to Ruisui (Sep 29)
+DESCRIPTION:TRA tickets available today for Sep 29.\nRoute: Fangliao to Taitung (South-Link) to Ruisui (northbound).\nNew EMU3000 trains - no standing tickets!\nMost beautiful coastal railway in Taiwan.\nApp: Taiwan Railway e-Booking or railway.gov.tw.\nNeed: passport number.
 BEGIN:VALARM
 TRIGGER:PT0S
 ACTION:DISPLAY
-DESCRIPTION:今天可以抢台铁票了！枋寮→台东→瑞穗 9/29 南回线
+DESCRIPTION:TRA tickets available today! Fangliao to Taitung to Ruisui Sep 29
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-006@taiwan-itinerary
 DTSTART;VALUE=DATE:20260916
-SUMMARY:🎫 抢票：台铁 瑞穗→台东→高雄 (9/30)
-DESCRIPTION:今天起可在台铁官网/App购买9/30的火车票。\n路线：瑞穗→台东(南下)→高雄(南回线)\n购买方式：台铁e订通 App 或 railway.gov.tw\n需要：护照号码
+SUMMARY:[Book] TRA Ruisui to Taitung to Kaohsiung (Sep 30)
+DESCRIPTION:TRA tickets available today for Sep 30.\nRoute: Ruisui to Taitung (southbound) to Kaohsiung (South-Link).\nApp: Taiwan Railway e-Booking or railway.gov.tw.\nNeed: passport number.
 BEGIN:VALARM
 TRIGGER:PT0S
 ACTION:DISPLAY
-DESCRIPTION:今天可以抢台铁票了！瑞穗→台东→高雄 9/30
+DESCRIPTION:TRA tickets available today! Ruisui to Taitung to Kaohsiung Sep 30
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-007@taiwan-itinerary
 DTSTART;VALUE=DATE:20260917
-SUMMARY:🎫 抢票：台铁 台东→高雄 (9/30) 备选
-DESCRIPTION:如果9/16未抢到瑞穗出发的票，也可分段购买：\n9/30 瑞穗→台东 + 台东→高雄(南回线)\n台东→高雄段也需提前14天订票。
+SUMMARY:[Check] TRA backup plan for Sep 30
+DESCRIPTION:If Sep 16 booking failed, can buy separately:\nSep 30 Ruisui to Taitung + Taitung to Kaohsiung (South-Link).\nTaitung to Kaohsiung also needs 14-day advance booking.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:提醒：检查台铁票是否已订好，如未订到可分段购买
+DESCRIPTION:Check if TRA tickets are booked. If not, try buying segments separately.
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-008@taiwan-itinerary
 DTSTART;VALUE=DATE:20260918
-SUMMARY:✈️ 出发！Zwijndrecht→Schiphol→台北 11:00
-DESCRIPTION:出发日详细时间表：\n04:30 起床洗漱\n05:00 最后检查行李（护照/入台证/机票/€300-500欧元现金/借记卡/旅行保险）\n05:30 🚂 从Zwijndrecht搭火车→Rotterdam Centraal→Schiphol机场（约1.5-2h，含转车）\n07:30 抵达Schiphol机场\n07:30-08:30 值机/托运/安检\n09:00 通过安检，前往登机口\n11:00 ✈️ 航班起飞 阿姆斯特丹→台北\n\n火车路线：Zwijndrecht→Rotterdam Centraal→Schiphol\n建议前一晚早睡！NS App提前查好首班火车时刻表（约05:00）
+SUMMARY:[Flight] Depart Zwijndrecht to Taipei via Amsterdam 11:00
+DESCRIPTION:Departure day schedule:\n04:30 Wake up\n05:00 Final luggage check (passport / Entry Permit / tickets / EUR 300-500 cash / debit card / travel insurance)\n05:30 Train from Zwijndrecht to Rotterdam Centraal to Schiphol Airport (~1.5-2h with transfer)\n07:30 Arrive at Schiphol Airport\n07:30-08:30 Check-in / baggage drop / security\n09:00 Through security, head to gate\n11:00 Flight departs Amsterdam to Taipei\n\nTrain route: Zwijndrecht -> Rotterdam Centraal -> Schiphol.\nSleep early the night before! Check NS App for first train schedule (~05:00).
 BEGIN:VALARM
 TRIGGER:-PT15H
 ACTION:DISPLAY
-DESCRIPTION:明早4:30起床！今晚早睡！从Zwijndrecht出发去机场！
+DESCRIPTION:Wake up at 04:30 tomorrow! Sleep early tonight! Departure from Zwijndrecht!
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
-DESCRIPTION:1小时后起床！04:30出发日！
+DESCRIPTION:Wake up in 1 hour! 04:30 departure day!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-009@taiwan-itinerary
 DTSTART;VALUE=DATE:20260923
-SUMMARY:🎫 购票：阿里山日出小火车票 (9/24清晨)
-DESCRIPTION:⚠️ 今天下午必须去买！\n时间：下午1:00 - 4:00（1点开售，抢手！）\n地点：阿里山车站\n建议：12:30前到车站排队！\n这是明天清晨看日出的祝山线小火车车票。
+SUMMARY:[Buy] Alishan Sunrise Train Ticket (Sep 24 early morning)
+DESCRIPTION:Must buy today afternoon!\nTime: 1:00 PM - 4:00 PM (sales open at 1 PM, sells out fast!)\nLocation: Alishan Station\nArrive before 12:30 to queue!\nThis is the Zhushan Line train ticket for tomorrow sunrise viewing.
 BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
-DESCRIPTION:1小时后去阿里山车站排队买日出小火车票！
+DESCRIPTION:Go to Alishan Station in 1 hour to queue for sunrise train ticket!
 END:VALARM
 BEGIN:VALARM
 TRIGGER:PT12H
 ACTION:DISPLAY
-DESCRIPTION:今天下午1点去阿里山车站买日出小火车票！
+DESCRIPTION:Go to Alishan Station at 1 PM today to buy sunrise train ticket!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-010@taiwan-itinerary
 DTSTART;VALUE=DATE:20260919
-SUMMARY:✈️ 抵达台北 06:15
-DESCRIPTION:抵达桃园机场(TPE) 06:15\n\n今日安排：\n1. 机场捷运入市区\n2. 酒店寄存行李\n3. 补觉调整时差\n4. 下午3-4点前往象山拍101打卡照\n5. 晚上宁夏夜市
+SUMMARY:[Arrive] Taipei 06:15
+DESCRIPTION:Arrive Taoyuan Airport (TPE) at 06:15.\n\nToday's plan:\n1. Airport MRT to city\n2. Drop bags at hotel\n3. Buy EasyCard + SIM card + exchange TWD\n4. Rest to adjust to jet lag\n5. 3-4 PM: Elephant Mountain for Taipei 101 photo\n6. Evening: Ningxia Night Market
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-011@taiwan-itinerary
 DTSTART;VALUE=DATE:20261004
-SUMMARY:✈️ 离境：高雄→南京 11:40
-DESCRIPTION:航班：高雄(KHH) → 南京\n出发：11:40 → 抵达：14:00\n\n提醒：\n- 高雄小港机场通关快，提前2-2.5小时抵达\n- 09:00-09:30从酒店出发\n- 这是入台证第15天(最后合法停留日)，务必当天离境！
+SUMMARY:[Flight] Depart Kaohsiung to Nanjing 11:40
+DESCRIPTION:Flight: Kaohsiung (KHH) to Nanjing.\nDepart: 11:40. Arrive: 14:00.\n\nReminders:\n- Kaohsiung Airport customs is fast, arrive 2-2.5 hours before\n- 09:00-09:30 leave hotel\n- This is Day 15 of Entry Permit (last legal day)! Must depart today!
 BEGIN:VALARM
 TRIGGER:-PT4H
 ACTION:DISPLAY
-DESCRIPTION:4小时后航班！高雄→南京 11:40。这是最后合法停留日！
+DESCRIPTION:Flight in 4 hours! Kaohsiung to Nanjing 11:40. Last legal day of stay!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-trip-012@taiwan-itinerary
 DTSTART;VALUE=DATE:20261005
-SUMMARY:✈️ 南京→太原 07:40
-DESCRIPTION:航班：南京 → 太原\n出发：07:40 → 抵达：09:40\n\n提醒：建议5:40前到机场。\n行程圆满结束！🏠
+SUMMARY:[Flight] Nanjing to Taiyuan 07:40
+DESCRIPTION:Flight: Nanjing to Taiyuan.\nDepart: 07:40. Arrive: 09:40.\n\nArrive at airport by 05:40.\nTrip complete! Home!
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:2小时后航班！南京→太原 07:40
+DESCRIPTION:Flight in 2 hours! Nanjing to Taiyuan 07:40
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-001@taiwan-itinerary
 DTSTART;VALUE=DATE:20260912
-SUMMARY:🍽️ 预订：台南阿霞饭店 (9/26晚餐)
-DESCRIPTION:米其林推荐台菜经典，非常抢手！\n用餐日期：9月26日晚餐\n预订方式：下载 inline APP 提前1-2周订位\n建议：现在就订，越早越好，热门时段会满！\n地址：台南市中西区忠义路二段84巷16号
+SUMMARY:[Food] Book A-Hsia Restaurant Tainan (Sep 26 dinner)
+DESCRIPTION:Michelin-recommended Taiwanese cuisine, very popular!\nDinner date: Sep 26.\nBooking: Download inline APP, book 1-2 weeks ahead.\nBook now - popular time slots fill up!\nAddress: Tainan, West Central Dist, Zhongyi Rd Sec 2 Lane 84 No 16.
 BEGIN:VALARM
 TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:提醒：还没订阿霞饭店的话，现在就用inline APP预订！
+DESCRIPTION:Book A-Hsia Restaurant on inline APP if not done yet!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-002@taiwan-itinerary
 DTSTART;VALUE=DATE:20261002
-SUMMARY:🍽️ 预订：高雄热炒店 Re-chao (10/3晚餐)
-DESCRIPTION:最后一晚的台式热炒大餐！配台湾啤酒🍻\n用餐日期：10月3日晚餐\n推荐：海宝活海鲜 / 沙卡党\n预订方式：提前1天电话订位（周末人多）\n10月2日到达高雄后立刻打电话预订明晚！
+SUMMARY:[Food] Book Re-chao Restaurant Kaohsiung (Oct 3 dinner)
+DESCRIPTION:Last night Taiwanese stir-fry dinner! With Taiwan Beer.\nDinner date: Oct 3.\nRecommended: Hai-Bao Seafood / Sha-Ka-Dang.\nBooking: Call 1 day ahead (weekends get busy).\nCall today after arriving in Kaohsiung to book tomorrow night!
 BEGIN:VALARM
 TRIGGER:PT9H
 ACTION:DISPLAY
-DESCRIPTION:今天到达高雄后，记得打电话预订明晚的热炒店！
+DESCRIPTION:Call to book Re-chao restaurant for tomorrow night after arriving in Kaohsiung!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-003@taiwan-itinerary
 DTSTART;VALUE=DATE:20260919
-SUMMARY:🍽️ 抵台当天：买悠游卡+办电话卡+换汇
-DESCRIPTION:抵达桃园机场后第一时间完成：\n1. 💶 换汇：第二航厦一楼台湾银行/兆丰商银柜台（带€300-500欧元）\n2. 📱 办中华电信SIM卡：需护照，约10分钟，NT$300-500/无限流量\n3. 🎫 买悠游卡：机场便利店购买(押NT$100)+充值NT$1,000\n\n这三件事在机场航厦内全可搞定！
+SUMMARY:[Arrive] Buy EasyCard + SIM card + Exchange TWD at airport
+DESCRIPTION:First things to do after arriving at Taoyuan Airport:\n1. Exchange TWD: Terminal 2 Floor 1 Bank of Taiwan / Mega Bank (bring EUR 300-500)\n2. Chunghwa Telecom SIM card: need passport, ~10 min, NT$300-500 unlimited data\n3. Buy EasyCard: airport convenience store (deposit NT$100) + top up NT$1000\n\nAll three can be done inside the airport terminal!
 BEGIN:VALARM
 TRIGGER:PT0S
 ACTION:DISPLAY
-DESCRIPTION:抵达台湾！记得换汇+办电话卡+买悠游卡！
+DESCRIPTION:Arrived in Taiwan! Exchange currency + get SIM card + buy EasyCard!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-004@taiwan-itinerary
 DTSTART;VALUE=DATE:20260920
-SUMMARY:🍽️ 阜杭豆浆排队提醒 (今天早餐)
-DESCRIPTION:台北最火早餐店！\n时间：7:30前到达排队（否则排30-60分钟）\n地点：善导寺站附近，忠孝东路一段108号\n必点：厚饼夹蛋、咸豆浆\n排队严重，工作日也排！7:30前到！
+SUMMARY:[Food] Fu Hang Soy Milk - arrive before 7:30 AM!
+DESCRIPTION:Taipei's most famous breakfast spot!\nArrive before 7:30 AM to avoid 30-60 min queue.\nLocation: Near Shandao Temple Station, Zhongxiao E Rd Sec 1 No 108.\nMust order: thick flatbread with egg, salty soy milk.\nQueue is serious even on weekdays!
 BEGIN:VALARM
 TRIGGER:-PT13H
 ACTION:DISPLAY
-DESCRIPTION:明早7:30要去阜杭豆浆排队！今晚早点睡！
+DESCRIPTION:Go to Fu Hang Soy Milk at 7:30 AM tomorrow! Sleep early tonight!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-005@taiwan-itinerary
 DTSTART;VALUE=DATE:20260926
-SUMMARY:🍽️ 台南排队美食提醒
-DESCRIPTION:今天台南美食日，两个排队名店提醒：\n\n1. 阿堂咸粥：06:00开门，排队1小时+，越早到越好！\n   地址：台南市中西区西门路一段728号\n\n2. 六千牛肉汤（可选）：05:00开门！限量，想去的4:30起床\n   地址：台南市中西区海安路一段63号\n\n阿霞饭店今晚晚餐（已用inline APP提前预订）
+SUMMARY:[Food] Tainan queue restaurants today!
+DESCRIPTION:Tainan food day - two famous queue spots:\n\n1. A-Tang Savory Porridge: opens 06:00, queue 1hr+. Go early!\n   Address: Tainan, West Central Dist, Ximen Rd Sec 1 No 728.\n\n2. Liu-Qian Beef Soup (optional): opens 05:00! Limited quantity.\n   Address: Tainan, West Central Dist, Haian Rd Sec 1 No 63.\n\nA-Hsia Restaurant tonight (already booked via inline APP).
 BEGIN:VALARM
 TRIGGER:-PT13H
 ACTION:DISPLAY
-DESCRIPTION:明早要早起去排队！阿堂咸粥6点开 / 六千牛肉汤5点开！
+DESCRIPTION:Wake up early tomorrow! A-Tang opens at 6 AM / Liu-Qian at 5 AM!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-006@taiwan-itinerary
 DTSTART;VALUE=DATE:20260924
-SUMMARY:🍽️ 阿里山日出小火车票 + 瑞穗泛舟确认
-DESCRIPTION:今天在阿里山：\n⏰ 下午1点前到阿里山车站排队买明日日出小火车票！（已在交通提醒中）\n\n同时确认：秀姑巒溪泛舟(9/30)是否已在Klook/KKday预订好？\n如未预订，今天务必完成！
+SUMMARY:[Food] Alishan sunrise ticket + confirm rafting booking
+DESCRIPTION:Today at Alishan:\nGo to Alishan Station before 1 PM to queue for tomorrow's sunrise train ticket! (Already in transport reminders)\n\nAlso confirm: Xiuguluan River Rafting (Sep 30) is booked on Klook/KKday?\nIf not booked yet, book today!
 BEGIN:VALARM
 TRIGGER:PT8H
 ACTION:DISPLAY
-DESCRIPTION:今天下午1点去阿里山车站买日出票！同时确认泛舟预订！
+DESCRIPTION:Buy sunrise train ticket at 1 PM today! Also confirm rafting booking!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-007@taiwan-itinerary
 DTSTART;VALUE=DATE:20260925
-SUMMARY:🍽️ 嘉义火鸡肉饭提醒 (今天午餐)
-DESCRIPTION:今天从阿里山下山到台南途中，经过嘉义必吃！\n\n嘉义火鸡肉饭：\n推荐：鸡肉饭（喷水鸡肉饭旁小店）\n或林聪明沙锅鱼头\n\n这是下山后的第一顿热饭，超满足！
+SUMMARY:[Food] Chiayi Turkey Rice for lunch!
+DESCRIPTION:On the way down from Alishan to Tainan, must stop in Chiayi for turkey rice!\n\nRecommended: any local shop near Chiayi Station.\nOr Lin-Cong-Ming sand-pot fish head nearby.\n\nThis is the first hot meal after descending - super satisfying!
 BEGIN:VALARM
 TRIGGER:PT6H
 ACTION:DISPLAY
-DESCRIPTION:今天下山到嘉义，记得吃火鸡肉饭！
+DESCRIPTION:Stop in Chiayi for turkey rice today on the way down!
 END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
 UID:tw-food-008@taiwan-itinerary
 DTSTART;VALUE=DATE:20260928
-SUMMARY:🍽️ 后壁湖海鲜提醒 (今天午餐)
-DESCRIPTION:今天在垦丁，午餐去后壁湖吃海鲜！\n\n推荐：阿兴生鱼片\n特色：全台最高性价比！生鱼片100元起\n注意：周一人少，不用排太久\n地址：屏东县恒春镇大光路79-30号
+SUMMARY:[Food] Houpihu Seafood for lunch in Kenting!
+DESCRIPTION:Today in Kenting, lunch at Houpihu seafood!\n\nRecommended: A-Xing Sashimi.\nBest value seafood in Taiwan! Sashimi from NT$100.\nMonday = fewer people, shorter queue.\nAddress: Pingtung, Hengchun, Daguang Rd No 79-30.
 BEGIN:VALARM
 TRIGGER:PT7H
 ACTION:DISPLAY
-DESCRIPTION:今天午餐去后壁湖吃海鲜！阿兴生鱼片！
+DESCRIPTION:Lunch at Houpihu seafood today! A-Xing Sashimi!
 END:VALARM
 END:VEVENT
 
