@@ -93,6 +93,31 @@ Chinese Culture University is located on Yangmingshan in northern Taipei — the
 
 ---
 
+## 🛂 Visa / Entry Permit Info
+
+### Applicable Category
+As a mainland Chinese resident departing from a third country (Amsterdam), you fall under **"Third-Category Tourism"** (mainland Chinese residing overseas applying for tourism to Taiwan).
+
+### Max Stay: 15 Days (counted from day AFTER entry)
+> Official rule (Taiwan National Immigration Agency): **"自入境之翌日起不得逾15日"** — stay shall not exceed 15 days, counted from the day AFTER entry.
+
+| Item | Details |
+|---|---|
+| Entry date | Sept 19 (not counted) |
+| Day 1 | Sept 20 |
+| Day 15 (last legal day) | **Oct 4** ✅ |
+| Departure flight | Oct 4, 11:40 AM Kaohsiung→Nanjing |
+
+**✅ The itinerary fits within the 15-day limit!** Oct 4 is Day 15 (the last legal day of stay), and your flight departs that morning.
+
+### ⚠️ Important Notes
+- **Zero buffer:** Oct 4 is already the last day. If your flight is cancelled/delayed to Oct 5, you'd be **overstaying** (逾期停留), which has serious consequences. Strongly recommend travel insurance covering flight disruptions.
+- **No Mainland Travel Permit needed:** Since you're departing from Amsterdam (not mainland China), you do NOT need the "Mainland Resident Travel Permit for Taiwan" (大通证). You only need the **Entry Permit (入台证)**.
+- **How to apply:** Apply online for the Entry Permit (third-category). Do this well in advance.
+- **Official source:** Taiwan National Immigration Agency — https://www.immigration.gov.tw
+
+---
+
 ## 💡 Pre-Trip Checklist
 
 ### 📱 Apps to Download
