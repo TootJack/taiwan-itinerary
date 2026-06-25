@@ -11,7 +11,7 @@
 
 | Date | Flight | Time |
 |---|---|---|
-| 9/18 (Fri) | Amsterdam → Taipei | Dep 11:00 (arr next day) |
+| 9/18 (Fri) | Zwijndrecht → Taipei | Dep 05:30 train → 11:00 flight from Amsterdam (arr next day) |
 | 9/19 (Sat) | Arrive Taoyuan Airport (TPE) | Arr 06:15 |
 | 10/4 (Sun) | Kaohsiung (KHH) → Nanjing | Dep 11:40 → Arr 14:00 |
 | 10/5 (Mon) | Nanjing → Taiyuan | Dep 07:40 → Arr 09:40 |
@@ -22,7 +22,7 @@
 
 | Date | City | Itinerary & Activities | Transport | Accommodation | 📝 Tips & Fact-Check |
 |---|---|---|---|---|---|
-| **9/18 (Fri)** | Amsterdam ➔ Flight | **Departure Day:** Depart Amsterdam at 11:00, overnight red-eye flight arriving early next morning. | Flight | On plane | Double-check passport, tickets, TWD cash/debit card before leaving. |
+| **9/18 (Fri)** | Zwijndrecht ➔ Flight | **Departure Day:** 05:30 train from Zwijndrecht→Schiphol Airport, 11:00 flight departs, overnight red-eye arriving early next morning. | 🚂 Train + ✈️ Flight | On plane | Double-check passport, tickets, TWD cash/debit card before leaving. Train route: Zwijndrecht→Rotterdam Centraal→Schiphol. |
 | **9/19 (Sat)** | Taipei | **Arrival + Elephant Mountain + Night Market:** Land at Taoyuan Airport 6:15 AM, take Airport MRT to city, drop bags at hotel. Rest to adjust to jet lag, then head to **Elephant Mountain (Xiangshan)** in the afternoon for the iconic Taipei 101 photo (see details below). Evening: Ningxia Night Market. | Airport MRT + MRT | Near Taipei Main Sta. / Zhongshan | **EasyCard:** Buy at airport convenience store, top up. **Elephant Mountain transport:** Take MRT Red Line (Tamsui-Xinyi Line) to "Xiangshan Station," Exit 2, walk ~650m (~20 min) to trailhead. Hike 15-20 min, all stairs. **Turn LEFT at the fork!** |
 | **9/20 (Sun)** | Taipei | **History · Culture · Million-Dollar Night View:** Morning at National Palace Museum (~3h) → afternoon at Dadaocheng/Dihua Street (vintage cafés in old houses) → evening up Yangmingshan to "Lover's Hill" behind Chinese Culture University for sunset & stunning night view → dinner at a landscape restaurant. | MRT + Bus/Uber | Taipei | **Palace Museum tickets** can be bought online in advance for QR-code entry. **Going up:** After Dadaocheng, take an Uber (set destination to "Lover's Hill behind Chinese Culture University") ~30-40 min, or take MRT to Jiantan Sta. then bus "Red 5" direct to the university — follow the students. **Coming down:** Ask the restaurant front desk to call a taxi, or use Uber. Pass by Shilin Night Market for late-night snacks on the way back. Recommended restaurants: The Top (Bali-style, walk-in only), Sleepless in Yangmingshan (romantic vibe). |
 | **9/21 (Mon)** | Taipei | **Pingxi Line & Jiufen:** Ride the Pingxi Line small train to see Shifen Waterfall & release sky lanterns; head to Jiufen Old Street in the evening for sunset & night views. | TRA & Bus | Taipei | **✅ Good news:** Monday means far fewer crowds at Jiufen than on weekends! Better experience. Take a direct bus back to downtown Taipei after the night view. |
@@ -81,16 +81,20 @@
 
 ---
 
-### Day 0 · 9/18 (Fri) Departure — Amsterdam→Taipei
+### Day 0 · 9/18 (Fri) Departure — Zwijndrecht→Amsterdam→Taipei
 
 | Time | Activity | Notes |
 |---|---|---|
-| 08:00 | Wake up, final luggage check | ✅ Passport (6+ months validity), Entry Permit, tickets |
-| 09:00 | Head to Amsterdam Airport | Arrive 3 hours before flight |
+| 04:30 | ⏰ Wake up, get dressed | ✅ Passport (6+ months validity), Entry Permit, tickets |
+| 05:00 | Final luggage check: EUR cash (€300-500), debit card, travel insurance | Confirm Entry Permit is printed |
+| 05:30 | 🚂 Train from Zwijndrecht to Schiphol Airport | Route: Zwijndrecht→Rotterdam Centraal→Schiphol, ~1.5-2 hr (incl. transfer) |
+| 07:30 | Arrive at Schiphol Airport | International flights: arrive 3 hours before |
+| 07:30-08:30 | Check-in, baggage drop, security | |
+| 09:00 | Through security, head to gate | Browse duty-free, buy water |
 | 11:00 | ✈️ Flight departs Amsterdam→Taipei | Red-eye, arrives early next morning |
 | 11:00+ | ✈️ Airplane meal | Rest on plane, try to sleep to adjust to time zone |
 
-> ⚠️ **Note:** Confirm Entry Permit is approved & printed; TWD cash/debit card packed; travel insurance covers flight delays.
+> ⚠️ **Note:** Train from Zwijndrecht to Schiphol takes ~1.5-2 hours (transfer at Rotterdam Centraal). Leaving at 05:30 ensures arrival by 07:30. Sleep early the night before! Check NS App for train schedules (first train ~05:00).
 
 ---
 

@@ -93,12 +93,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tw-trip-008@taiwan-itinerary
 DTSTART;VALUE=DATE:20260918
-SUMMARY:✈️ 出发！阿姆斯特丹→台北 11:00
-DESCRIPTION:航班：阿姆斯特丹 → 台北\n出发时间：11:00\n抵达时间：次日(9/19) 06:15 桃园机场(TPE)\n\n出发前检查清单：\n✅ 护照（有效期6个月以上）\n✅ 入台证（已批准）\n✅ 机票\n✅ 台币现金/借记卡\n✅ 旅行保险（含航班延误保障）\n✅ 悠游卡（抵达后购买）
+SUMMARY:✈️ 出发！Zwijndrecht→Schiphol→台北 11:00
+DESCRIPTION:出发日详细时间表：\n04:30 起床洗漱\n05:00 最后检查行李（护照/入台证/机票/€300-500欧元现金/借记卡/旅行保险）\n05:30 🚂 从Zwijndrecht搭火车→Rotterdam Centraal→Schiphol机场（约1.5-2h，含转车）\n07:30 抵达Schiphol机场\n07:30-08:30 值机/托运/安检\n09:00 通过安检，前往登机口\n11:00 ✈️ 航班起飞 阿姆斯特丹→台北\n\n火车路线：Zwijndrecht→Rotterdam Centraal→Schiphol\n建议前一晚早睡！NS App提前查好首班火车时刻表（约05:00）
 BEGIN:VALARM
-TRIGGER:-PT3H
+TRIGGER:-PT15H
 ACTION:DISPLAY
-DESCRIPTION:3小时后出发！阿姆斯特丹→台北
+DESCRIPTION:明早4:30起床！今晚早睡！从Zwijndrecht出发去机场！
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1小时后起床！04:30出发日！
 END:VALARM
 END:VEVENT
 
