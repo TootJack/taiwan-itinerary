@@ -445,6 +445,36 @@
 
 ## 💡 Pre-Trip Checklist
 
+### 💶 Currency Exchange & Cash
+- **Recommended cash:** About **€300-500 EUR** (for two people combined), roughly **NT$10,000-17,000 TWD**
+- **Where to exchange:** After arriving at Taoyuan Airport, exchange at the **Bank of Taiwan / Mega Bank counters on the 1st floor of Terminal 2 Arrivals Hall** — best exchange rates
+- **ATM withdrawal:** If you run low on cash, all 7-11 / Family Mart ATMs accept overseas debit cards to withdraw TWD directly (confirm your card has international withdrawal enabled)
+- **Credit cards:** Large malls & convenience stores accept Visa/Mastercard or Apple Pay
+- **Night markets & street food stalls rely heavily on cash** — always keep NT$2,000-3,000 on hand
+
+### 📱 SIM Card & Data Options
+Get this at Taoyuan Airport after landing, takes about 10 minutes:
+
+| Option | Cost (approx.) | Pros | Cons |
+|---|---|---|---|
+| **Chunghwa Telecom (recommended)** | ~NT$300-500 for 8-15 days unlimited data | Strongest signal, full coverage island-wide | Need passport, ~10 min to set up |
+| **Taiwan Mobile / FarEasTone** | ~NT$300-500 for 8-15 days unlimited data | Good signal too, slightly cheaper | Same as above |
+| **Int'l roaming + roaming Wi-Fi egg** | Varies by carrier | No SIM swap needed | May cost more, need to rent Wi-Fi egg in advance |
+
+> **Recommendation:** For two people, at least one person should get a Chunghwa Telecom SIM (most reliable signal for navigation/Uber/Maps). The other can use international roaming as backup. Bring your passport to register.
+
+### 🎫 Transit Card: EasyCard (悠游卡)
+Buy at a convenience store after arriving at Taoyuan Airport, then top up:
+- **Purchase:** Airport convenience stores (7-11/Family Mart) or MRT station machines. Card deposit: NT$100
+- **Top up:** Convenience store counters or MRT station machines. Recommend loading NT$1,000 at a time
+- **Where it works (island-wide):**
+  - 🚇 Taipei MRT & Kaohsiung MRT
+  - 🚌 Taipei & Kaohsiung city buses
+  - 🚆 TRA (Taiwan Railway) — all sections
+  - 🚲 YouBike public bicycles
+  - 🏪 Four major convenience stores (7-11, Family Mart, Hi-Life, OK)
+- **vs. iPASS:** EasyCard has wider coverage than iPASS — it's the top choice for tourists
+
 ### 📱 Apps to Download
 | Purpose | App |
 |---|---|
@@ -460,11 +490,6 @@
 | **~Sep 16** (14 days before) | TRA: Ruisui→Taitung→Kaohsiung (9/30) | Book in advance |
 | **Jul 26–Sep 22** (2–60 days before) | Bus 6739: Sun Moon Lake→Alishan (9/24) | **Reservation required**, only 1–2 departures/day |
 | **ASAP** | Xiuguluan River Rafting (9/30) | Book on Klook/KKday — package with gear + shuttle + insurance |
-
-### 💳 Cash & Payment
-- Large shopping malls & convenience stores accept Visa/Mastercard or Apple Pay
-- Night markets & street food stalls rely heavily on cash
-- Recommend exchanging currency before departure, or bring a debit card that works at overseas ATMs — withdraw New Taiwan Dollars at airport or any 7-11 convenience store ATM
 
 ### 🏨 Nanjing Transit Hotel Tips
 - **For convenience:** Stay near Nanjing Lukou Airport — worry-free for the 7:40 AM flight next day
