@@ -150,4 +150,100 @@ DESCRIPTION:2小时后航班！南京→太原 07:40
 END:VALARM
 END:VEVENT
 
+BEGIN:VEVENT
+UID:tw-food-001@taiwan-itinerary
+DTSTART;VALUE=DATE:20260912
+SUMMARY:🍽️ 预订：台南阿霞饭店 (9/26晚餐)
+DESCRIPTION:米其林推荐台菜经典，非常抢手！\n用餐日期：9月26日晚餐\n预订方式：下载 inline APP 提前1-2周订位\n建议：现在就订，越早越好，热门时段会满！\n地址：台南市中西区忠义路二段84巷16号
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:提醒：还没订阿霞饭店的话，现在就用inline APP预订！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-food-002@taiwan-itinerary
+DTSTART;VALUE=DATE:20261002
+SUMMARY:🍽️ 预订：高雄热炒店 Re-chao (10/3晚餐)
+DESCRIPTION:最后一晚的台式热炒大餐！配台湾啤酒🍻\n用餐日期：10月3日晚餐\n推荐：海宝活海鲜 / 沙卡党\n预订方式：提前1天电话订位（周末人多）\n10月2日到达高雄后立刻打电话预订明晚！
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:今天到达高雄后，记得打电话预订明晚的热炒店！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-food-003@taiwan-itinerary
+DTSTART;VALUE=DATE:20260919
+SUMMARY:🍽️ 抵台当天：买悠游卡+办电话卡+换汇
+DESCRIPTION:抵达桃园机场后第一时间完成：\n1. 💶 换汇：第二航厦一楼台湾银行/兆丰商银柜台（带€300-500欧元）\n2. 📱 办中华电信SIM卡：需护照，约10分钟，NT$300-500/无限流量\n3. 🎫 买悠游卡：机场便利店购买(押NT$100)+充值NT$1,000\n\n这三件事在机场航厦内全可搞定！
+BEGIN:VALARM
+TRIGGER:PT0S
+ACTION:DISPLAY
+DESCRIPTION:抵达台湾！记得换汇+办电话卡+买悠游卡！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-food-004@taiwan-itinerary
+DTSTART;VALUE=DATE:20260920
+SUMMARY:🍽️ 阜杭豆浆排队提醒 (今天早餐)
+DESCRIPTION:台北最火早餐店！\n时间：7:30前到达排队（否则排30-60分钟）\n地点：善导寺站附近，忠孝东路一段108号\n必点：厚饼夹蛋、咸豆浆\n排队严重，工作日也排！7:30前到！
+BEGIN:VALARM
+TRIGGER:-PT13H
+ACTION:DISPLAY
+DESCRIPTION:明早7:30要去阜杭豆浆排队！今晚早点睡！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-food-005@taiwan-itinerary
+DTSTART;VALUE=DATE:20260926
+SUMMARY:🍽️ 台南排队美食提醒
+DESCRIPTION:今天台南美食日，两个排队名店提醒：\n\n1. 阿堂咸粥：06:00开门，排队1小时+，越早到越好！\n   地址：台南市中西区西门路一段728号\n\n2. 六千牛肉汤（可选）：05:00开门！限量，想去的4:30起床\n   地址：台南市中西区海安路一段63号\n\n阿霞饭店今晚晚餐（已用inline APP提前预订）
+BEGIN:VALARM
+TRIGGER:-PT13H
+ACTION:DISPLAY
+DESCRIPTION:明早要早起去排队！阿堂咸粥6点开 / 六千牛肉汤5点开！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-food-006@taiwan-itinerary
+DTSTART;VALUE=DATE:20260924
+SUMMARY:🍽️ 阿里山日出小火车票 + 瑞穗泛舟确认
+DESCRIPTION:今天在阿里山：\n⏰ 下午1点前到阿里山车站排队买明日日出小火车票！（已在交通提醒中）\n\n同时确认：秀姑巒溪泛舟(9/30)是否已在Klook/KKday预订好？\n如未预订，今天务必完成！
+BEGIN:VALARM
+TRIGGER:PT8H
+ACTION:DISPLAY
+DESCRIPTION:今天下午1点去阿里山车站买日出票！同时确认泛舟预订！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-food-007@taiwan-itinerary
+DTSTART;VALUE=DATE:20260925
+SUMMARY:🍽️ 嘉义火鸡肉饭提醒 (今天午餐)
+DESCRIPTION:今天从阿里山下山到台南途中，经过嘉义必吃！\n\n嘉义火鸡肉饭：\n推荐：鸡肉饭（喷水鸡肉饭旁小店）\n或林聪明沙锅鱼头\n\n这是下山后的第一顿热饭，超满足！
+BEGIN:VALARM
+TRIGGER:PT6H
+ACTION:DISPLAY
+DESCRIPTION:今天下山到嘉义，记得吃火鸡肉饭！
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tw-food-008@taiwan-itinerary
+DTSTART;VALUE=DATE:20260928
+SUMMARY:🍽️ 后壁湖海鲜提醒 (今天午餐)
+DESCRIPTION:今天在垦丁，午餐去后壁湖吃海鲜！\n\n推荐：阿兴生鱼片\n特色：全台最高性价比！生鱼片100元起\n注意：周一人少，不用排太久\n地址：屏东县恒春镇大光路79-30号
+BEGIN:VALARM
+TRIGGER:PT7H
+ACTION:DISPLAY
+DESCRIPTION:今天午餐去后壁湖吃海鲜！阿兴生鱼片！
+END:VALARM
+END:VEVENT
+
 END:VCALENDAR
