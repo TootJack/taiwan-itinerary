@@ -2,7 +2,7 @@
 ### (Sept 18 Depart Amsterdam → Oct 5 Arrive Taiyuan)
 
 > **📅 Dates:** Sept 18 depart Amsterdam → Sept 19 arrive Taipei → Oct 4 Kaohsiung→Nanjing → Oct 5 Nanjing→Taiyuan
-> **🧭 Route:** Taipei → Taichung → Sun Moon Lake → Alishan → Tainan → Kenting → Taitung → Kaohsiung → Nanjing (transit)
+> **🧭 Route:** Taipei → Taichung → Sun Moon Lake → Alishan → Tainan → Kenting → Ruisui (rafting) → Kaohsiung → Nanjing (transit)
 > **🎫 Transit Card:** Buy an **EasyCard (悠游卡)** at a convenience store after arriving at Taoyuan Airport and top it up. Works on all MRT, buses, and convenience stores across Taiwan.
 
 ---
@@ -33,8 +33,8 @@
 | **9/26 (Sat)** | Tainan | **Food Capital:** Anping Fort & Anping Tree House; afternoon snacks at Guohua Street (beef soup, rice cake); evening at Dadong/Garden Night Market. | Bus / Taxi / Uber | West Central Dist., Tainan | Tainan buses are infrequent & slow. Prices are cheap — for 2+ people, just take a taxi or Uber around the city. |
 | **9/27 (Sun)** | Tainan ➔ Kenting | **Tropical Vibes:** HSR to Zuoyang Station, transfer to "Kenting Express" bus; afternoon at Baisha Bay or Nanwan for the sea. | HSR + Kenting Express | Kenting Street / South Bay | Buy a "round-trip ticket" for the Kenting Express at the Zuoyang HSR station counter — cheaper than one-way. ~2 hours ride. |
 | **9/28 (Mon)** | Kenting | **National Park Coastline:** Ride around Eluanbi Lighthouse, Longpan Park (cliff coastline); affordable seafood at Houpihu. | Rent E-scooter | Kenting | **License:** Renting a motor scooter requires a local/international motorcycle license. Tourists should rent an **"E-bike (电动自行车, no license required)"** — max speed 25 km/h, plenty for sightseeing. |
-| **9/29 (Tue)** | Kenting ➔ Taitung | **East Coast Slow Living:** Bus to Fangliao Station, transfer to TRA "South-Link Line" to Taitung; evening at Tiehua Village for live music. | Bus + TRA South-Link | Taitung City | **TRA Fact-Check:** Known as Taiwan's most beautiful coastal railway. Now mostly uses new EMU3000 trains (no standing tickets) — book 14 days in advance on the TRA official site. |
-| **9/30 (Wed)** | Taitung ➔ Kaohsiung | **Back to the Harbor City:** Morning cycling at Taitung Forest Park; afternoon TRA to Kaohsiung; evening at **Liuhe Night Market**. | TRA | Near Formosa Blvd / Arena MRT | ⚠️ **Night Market Adjustment:** Originally planned Ruifeng, but it's **closed on Wednesday!** Switch to Liuhe Night Market (tourist-friendly, open daily, right at Formosa Blvd MRT station). Ruifeng moved to Thursday 10/1. |
+| **9/29 (Tue)** | Kenting ➔ Ruisui | **East Coast Travel + Pre-Rafting Rest:** Bus to Fangliao Station, TRA "South-Link Line" to Taitung, then transfer northbound to Ruisui. Enjoy Taiwan's most beautiful coastal railway along the way. Arrive Ruisui evening, soak in **Ruisui Hot Springs** to rest up for tomorrow's rafting. | Bus + TRA South-Link + TRA Northbound | Ruisui Hot Springs area | **TRA Fact-Check:** South-Link Line is Taiwan's most beautiful coastal railway. Now mostly uses new EMU3000 trains (no standing tickets) — book 14 days in advance. Taitung→Ruisui is ~1 hour. Ruisui Hot Springs are famous sodium bicarbonate springs ("beauty springs"), perfect for relaxing the night before rafting. |
+| **9/30 (Wed)** | Ruisui ➔ Kaohsiung | **Xiuguluan River Rafting + Back to Harbor City:** Morning **Xiuguluan River rafting** (24km, ~3-4 hours, see highlight below). Afternoon TRA from Ruisui→Taitung→Kaohsiung (South-Link Line, ~4-5 hours). Evening at **Liuhe Night Market**. | Rafting shuttle + TRA | Near Formosa Blvd / Arena MRT | ⚠️ **Night Market Adjustment:** Originally planned Ruifeng, but it's **closed on Wednesday!** Switch to Liuhe Night Market (tourist-friendly, open daily, right at Formosa Blvd MRT station). Ruifeng moved to Thursday 10/1. **Rafting:** Book a rafting package online (Klook/KKday) in advance — includes gear + shuttle + insurance. Afternoon train is long — rest on the way. |
 | **10/1 (Thu)** | Kaohsiung | **Harbor & Art + Ruifeng Night Market:** Morning at Pier-2 Art Center & Great Harbor Bridge; afternoon at Kaohsiung Music Center & Love River Bay; evening at **Ruifeng Night Market** (open Thursday!). | Kaohsiung LRT / MRT | Kaohsiung | The Kaohsiung Light Rail (LRT) is now a full loop — just tap on/off with EasyCard. The most scenic way to enjoy the harbor. **Ruifeng Night Market** is open Thursday — locals' favorite! |
 | **10/2 (Fri)** | Kaohsiung (Cijin) | **Island Vibes:** Ferry from Gushan to Cijin Island; rent a vehicle to see Cijin Lighthouse & Rainbow Church; eat giant shaved ice. | Ferry | Kaohsiung | Ferry takes only 5 minutes — people & e-scooters can board. Just tap your EasyCard. |
 | **10/3 (Sat)** | Kaohsiung | **Architecture · Souvenirs · Relax (combined day):** Morning at Weiwuying National Kaohsiung Center for the Arts; afternoon souvenir shopping (Wang Cai Hong etc.) + optional Former British Consulate or Sizihwan sunset. | MRT / Walk | Kaohsiung | Late-trip mode: semi-relaxed today. Last night — highly recommend an authentic Taiwanese "Re-chao" (stir-fry) restaurant with Taiwan Beer, or a hot pot dinner. |
@@ -78,6 +78,22 @@ Chinese Culture University is located on Yangmingshan in northern Taipei — the
 
 ---
 
+## 🚣 Day 12 Highlight: Xiuguluan River Rafting (秀姑巒溪泛舟)
+
+Your friend's recommendation is spot on! Xiuguluan River rafting is THE most iconic outdoor activity in eastern Taiwan. September is prime rafting season — good water levels and stable weather.
+
+- **📍 Location:** Ruisui Township, Hualien County — Ruisui Bridge → Changhong Bridge, ~24km total
+- **⏱ Duration:** ~3-4 hours (including prep time)
+- **🗓 Best Season:** May–October; September has ideal water levels and stable weather
+- **🎫 Booking:** Book in advance on Klook / KKday — packages typically include: gear (life jacket + helmet), rubber raft + guide, shuttle from Ruisui Bridge start point to Changhong Bridge finish, insurance, shower facilities
+- **💰 Cost:** ~NT$800–1,200/person (depending on package)
+- **🎒 Bring:** Clothes you can get wet (you WILL be soaked!), change of clothes, towel, sunscreen, water shoes (best)
+- **♨️ After Rafting:** Strongly recommend soaking in Ruisui Hot Springs afterward! Famous sodium bicarbonate springs ("beauty springs") — rafting + hot springs is the locals' favorite combo
+
+> **💡 Tip:** Rafting usually starts 7-8 AM, so staying in Ruisui the night before (9/29) is the best setup. After rafting (~noon), take the TRA south to Kaohsiung (Ruisui→Taitung→Kaohsiung, ~4-5 hours). Arrive Kaohsiung evening for the night market. The long train ride is perfect for a post-rafting nap!
+
+---
+
 ## 🔄 Key Changes from Previous Version (Changelog)
 
 | Item | Old Version | New Version | Reason |
@@ -90,6 +106,7 @@ Chinese Culture University is located on Yangmingshan in northern Taipei — the
 | **Liuhe Night Market** | Not included | ✅ Added to 9/30 (Wed evening) | Ruifeng closed — substitute with Liuhe (open daily, tourist-friendly) |
 | **Buffer day** | Separate day 10/3 | Merged into 10/3 (souvenirs + relax) | Lost a day, combined buffer with shopping |
 | **Nanjing transit** | Not included | ✅ Added 10/4-10/5 | Kaohsiung→Nanjing→Taiyuan connecting flights |
+| **Xiuguluan River Rafting** | Not included | ✅ Added to 9/29-9/30 | Friend's recommendation — Taiwan's #1 rafting experience. Stay in Ruisui on 9/29 (was Taitung), raft on 9/30 AM then head south. Replaced Taitung Forest Park cycling & Tiehua Village. |
 
 ---
 
@@ -131,9 +148,10 @@ As a mainland Chinese resident departing from a third country (Amsterdam), you f
 |---|---|---|
 | **~Aug 24** (29 days before) | HSR early-bird: Taipei→Taichung (9/22) | Up to 35% off |
 | **~Aug 29** (29 days before) | HSR early-bird: Tainan→Zuoyang (9/27) | Up to 35% off |
-| **~Sep 15** (14 days before) | TRA: Fangliao→Taitung (9/29) South-Link Line | EMU3000, no standing tickets |
-| **~Sep 16** (14 days before) | TRA: Taitung→Kaohsiung (9/30) | Book in advance |
+| **~Sep 15** (14 days before) | TRA: Fangliao→Taitung→Ruisui (9/29) South-Link + Northbound | EMU3000, no standing tickets |
+| **~Sep 16** (14 days before) | TRA: Ruisui→Taitung→Kaohsiung (9/30) | Book in advance |
 | **Jul 26–Sep 22** (2–60 days before) | Bus 6739: Sun Moon Lake→Alishan (9/24) | **Reservation required**, only 1–2 departures/day |
+| **ASAP** | Xiuguluan River Rafting (9/30) | Book on Klook/KKday — package with gear + shuttle + insurance |
 
 ### 💳 Cash & Payment
 - Large shopping malls & convenience stores accept Visa/Mastercard or Apple Pay
