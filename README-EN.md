@@ -24,7 +24,7 @@
 |---|---|---|---|---|
 | **9/18 (Fri)** | Zwijndrecht→Flight | 05:30 train→Schiphol→11:00 flight | 🚂+✈️ | On plane |
 | **9/19 (Sat)** | Taipei | Arrive 06:15→rest→Elephant Mountain 101 photo→Ningxia Night Market | Airport MRT+MRT | Taipei Main/Zhongshan |
-| **9/20 (Sun)** | Taipei | Palace Museum→Dadaocheng→Yangmingshan night view | MRT+Uber | Taipei |
+| **9/20 (Sun)** | Taipei | Palace Museum→Dadaocheng tea tasting→Ximending (opt: Yangmingshan) | MRT+Uber | Taipei |
 | **9/21 (Mon)** | Taipei | Pingxi Line lanterns→Shifen Waterfall→Jiufen night view | TRA+Bus | Taipei |
 | **9/22 (Tue)** | Taipei→Taichung | HSR south→Miyahara→Audit Village→Fengjia Night Market | HSR | Taichung/Fengjia |
 | **9/23 (Wed)** | Taichung→Sun Moon Lake | Miyahara→Sun Moon Lake cycling→Xuan-Guang Temple→sunset | Taiwan Trip Bus | Shuishe Pier |
@@ -52,7 +52,7 @@
 | Date | 🌅Breakfast | ☀️Lunch | 🌙Dinner | 📋 |
 |---|---|---|---|---|
 | **9/19** | ✈️Airplane meal | Convenience store | Ningxia Night Market (braised pork rice) | ❌ |
-| **9/20** | Fu Hang Soy Milk (before 7:30!) | Dadaocheng café | Yangmingshan restaurant (The Top) | ⏰ |
+| **9/20** | Fu Hang Soy Milk (before 7:30!) | Dadaocheng café + tea tasting (Lishan/Oriental Beauty) | Ximending (A-Zong Mianxian/duck) | ⏰ |
 | **9/21** | Yonghe Soy Milk | Shifen Old St (chicken wing rice) | Jiufen (A-Gan-Yi taro balls) | ❌ |
 | **9/22** | Hotel breakfast | Miyahara (ice cream) | Fengjia Night Market (sausage rice) | ❌ |
 | **9/23** | Hotel breakfast | Sun Moon Lake tea eggs | Lake hotel restaurant | ❌ |
@@ -114,7 +114,7 @@
 
 ---
 
-### Day 2 · 9/20 (Sun) Taipei — Palace Museum · Dadaocheng · Million-Dollar Night View 🔑
+### Day 2 · 9/20 (Sun) Taipei — Palace Museum · Dadaocheng Tea · Ximending 🔑
 
 | Time | Activity | Notes |
 |---|---|---|
@@ -124,16 +124,17 @@
 | 09:15-12:00 | Museum visit (~3 hours) | Rent audio guide for deeper experience |
 | 12:15 | 🍽 Light lunch near museum / head to Dadaocheng | |
 | 13:00 | ☕ Dadaocheng / Dihua Street | Heritage cafés. Recs: Dihua 207, Luguei Coffee |
-| 13:00-16:00 | Stroll old street, coffee, photos | Best spot for old-meets-new Taipei |
-| 16:00 | 🚗 Take Uber up Yangmingshan | Set dest "Lover's Hill behind CCU", ~30-40 min |
-| 16:40 | Arrive at Lover's Hill behind Chinese Culture University | Panoramic view of Taipei Basin, Taipei 101 in sight |
-| 17:00 | Watch sunset + photos | |
-| 17:30 | 🍽️ Landscape restaurant dinner | The Top (Bali-style, walk-in queue) / Sleepless in Yangmingshan (romantic vibe) |
-| 19:30 | 🚗 Head down | Ask restaurant to call taxi, or use Uber |
-| 20:00 | 🍽️ Shilin Night Market late-night snack (on the way) | Giant fried chicken, pan-fried buns |
-| 21:30 | Back to hotel | |
+| 13:00-15:00 | Stroll old street, coffee, photos | Best spot for old-meets-new Taipei |
+| 14:30 | 🍵 Tea tasting experience! | Sample **Lishan tea** (high-mountain oolong) + **Oriental Beauty tea** (honey-scented semi-fermented) at a heritage tea shop on Dihua Street. Dadaocheng was Taiwan's 19th-century tea trade hub — the best place for tea tasting! |
+| 15:30 | 🚇 MRT to Ximending | From Beimen/Daqiaotou Sta. to Ximen Sta., ~10-15 min |
+| 16:00 | 🏘️ Ximending | Taipei's "Harajuku"! Pedestrian zone, street performances, Red House, indie shops |
+| 16:00-18:30 | Explore Ximending | Red House market, tattoo street, American street, anime shops |
+| 18:30 | 🍽️ Ximending dinner | A-Zong Mianxian (must-eat!), duck meat, sweet potato tempura |
+| 19:30 | Continue enjoying Ximending at night | Cinema street, neon signs, great evening vibe |
+| 20:30 | Back to hotel | Or keep exploring |
+| **Optional** | **If energetic: Uber up Yangmingshan (30-40 min)** | Night view + landscape restaurant supper (The Top / Sleepless in Yangmingshan). But Day 1 already had Elephant Mountain night view — may be repetitive, skip if tired |
 
-> ⚠️ **Note:** Fu Hang Soy Milk queue can be 30-60 min, arrive before 7:30. Landscape restaurants are walk-in only — arrive before 5 PM on weekends to avoid long waits.
+> ⚠️ **Note:** Fu Hang Soy Milk queue can be 30-60 min, arrive before 7:30. Ximending is busy on weekends but the pedestrian zone is great for strolling. Yangmingshan is optional — Day 1 Elephant Mountain already covered Taipei night view, skip if you don't want repetitive views. For tea tasting in Dadaocheng, look for heritage tea shops offering free sampling (e.g. Wang You-Ji Tea, Lin Hua-Tai Tea) — the tasting experience itself is worth it even without buying.
 
 ---
 
